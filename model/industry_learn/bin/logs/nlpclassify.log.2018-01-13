@@ -1,0 +1,259 @@
+2018-01-13 00:30:11,136 nlpClassify.py[line:328] INFO loading 1 file, and url ['C:\\Users\\LEEBJ\\Desktop\\NEWMODEL\\t4_indudstry_classify_optimise_v0113_18\\doc\\mid\\check09260.xlsx', 'C:\\Users\\LEEBJ\\Desktop\\NEWMODEL\\t4_indudstry_classify_optimise_v0113_18\\doc\\mid\\check09261.xlsx', 'C:\\Users\\LEEBJ\\Desktop\\NEWMODEL\\t4_indudstry_classify_optimise_v0113_18\\doc\\mid\\check09262.xlsx']
+2018-01-13 00:30:30,935 nlpClassify.py[line:328] INFO loading 2 file, and url ['C:\\Users\\LEEBJ\\Desktop\\NEWMODEL\\t4_indudstry_classify_optimise_v0113_18\\doc\\mid\\check09260.xlsx', 'C:\\Users\\LEEBJ\\Desktop\\NEWMODEL\\t4_indudstry_classify_optimise_v0113_18\\doc\\mid\\check09261.xlsx', 'C:\\Users\\LEEBJ\\Desktop\\NEWMODEL\\t4_indudstry_classify_optimise_v0113_18\\doc\\mid\\check09262.xlsx']
+2018-01-13 00:30:50,904 nlpClassify.py[line:328] INFO loading 3 file, and url ['C:\\Users\\LEEBJ\\Desktop\\NEWMODEL\\t4_indudstry_classify_optimise_v0113_18\\doc\\mid\\check09260.xlsx', 'C:\\Users\\LEEBJ\\Desktop\\NEWMODEL\\t4_indudstry_classify_optimise_v0113_18\\doc\\mid\\check09261.xlsx', 'C:\\Users\\LEEBJ\\Desktop\\NEWMODEL\\t4_indudstry_classify_optimise_v0113_18\\doc\\mid\\check09262.xlsx']
+2018-01-13 00:30:51,057 nlpClassify.py[line:285] INFO train size: 200, predict size: 400, classify numbers: 2
+2018-01-13 00:30:51,709 nlpClassify.py[line:300] INFO Processing A23 , with training size 17339, and predict size 7894
+2018-01-13 00:30:51,712 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:31:03,621 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:31:14,627 nlpClassify.py[line:300] INFO Processing B29 , with training size 7927, and predict size 7944
+2018-01-13 00:31:14,632 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:31:25,013 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:31:35,754 nlpClassify.py[line:300] INFO Processing A61 , with training size 16615, and predict size 40638
+2018-01-13 00:31:35,767 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:32:24,893 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:33:17,242 nlpClassify.py[line:300] INFO Processing C08 , with training size 9514, and predict size 6656
+2018-01-13 00:33:17,245 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:33:28,023 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:33:39,354 nlpClassify.py[line:300] INFO Processing G06 , with training size 15625, and predict size 52453
+2018-01-13 00:33:39,373 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:35:24,919 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:37:08,967 nlpClassify.py[line:300] INFO Processing C07 , with training size 1678, and predict size 11879
+2018-01-13 00:37:08,972 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:37:19,749 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:37:30,876 nlpClassify.py[line:300] INFO Processing C02 , with training size 3177, and predict size 12230
+2018-01-13 00:37:30,881 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:37:43,686 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:37:56,451 nlpClassify.py[line:300] INFO Processing H04 , with training size 50479, and predict size 511
+2018-01-13 00:37:56,452 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:37:57,408 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:37:58,534 nlpClassify.py[line:300] INFO Processing G02 , with training size 11557, and predict size 751
+2018-01-13 00:37:58,535 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:37:59,593 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:38:00,740 nlpClassify.py[line:300] INFO Processing A01 , with training size 18272, and predict size 24536
+2018-01-13 00:38:00,748 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:38:29,821 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:38:58,230 nlpClassify.py[line:300] INFO Processing B23 , with training size 29830, and predict size 1207
+2018-01-13 00:38:58,231 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:38:59,757 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:39:01,317 nlpClassify.py[line:300] INFO Processing C12 , with training size 4405, and predict size 10932
+2018-01-13 00:39:01,321 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:39:13,698 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:39:25,330 nlpClassify.py[line:300] INFO Processing B65 , with training size 6140, and predict size 36953
+2018-01-13 00:39:25,344 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:40:11,635 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:40:57,939 nlpClassify.py[line:300] INFO Processing A21 , with training size 911, and predict size 1070
+2018-01-13 00:40:57,940 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:40:59,200 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:41:00,546 nlpClassify.py[line:300] INFO Processing H03 , with training size 134, and predict size 3186
+2018-01-13 00:41:00,548 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:41:03,458 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:41:06,421 nlpClassify.py[line:300] INFO Processing F04 , with training size 7499, and predict size 1599
+2018-01-13 00:41:06,422 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:41:08,161 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:41:10,013 nlpClassify.py[line:300] INFO Processing E01 , with training size 6040, and predict size 4690
+2018-01-13 00:41:10,016 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:41:15,687 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:41:21,397 nlpClassify.py[line:300] INFO Processing C04 , with training size 2372, and predict size 4479
+2018-01-13 00:41:21,402 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:41:26,272 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:41:31,215 nlpClassify.py[line:300] INFO Processing B66 , with training size 8482, and predict size 2860
+2018-01-13 00:41:31,216 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:41:34,122 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:41:37,187 nlpClassify.py[line:300] INFO Processing H02 , with training size 14039, and predict size 26492
+2018-01-13 00:41:37,196 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:42:10,788 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:42:47,190 nlpClassify.py[line:300] INFO Processing B25 , with training size 9306, and predict size 3978
+2018-01-13 00:42:47,193 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:42:51,353 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:42:55,570 nlpClassify.py[line:300] INFO Processing F01 , with training size 2954, and predict size 1202
+2018-01-13 00:42:55,571 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:42:56,982 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:42:58,461 nlpClassify.py[line:300] INFO Processing C09 , with training size 9340, and predict size 1692
+2018-01-13 00:42:58,462 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:43:01,297 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:43:04,089 nlpClassify.py[line:300] INFO Processing H01 , with training size 17418, and predict size 39632
+2018-01-13 00:43:04,107 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:44:04,470 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:45:08,486 nlpClassify.py[line:300] INFO Processing D06 , with training size 4884, and predict size 2887
+2018-01-13 00:45:08,488 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:45:12,184 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:45:15,931 nlpClassify.py[line:300] INFO Processing G01 , with training size 17569, and predict size 58629
+2018-01-13 00:45:15,952 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:46:35,227 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:47:51,733 nlpClassify.py[line:300] INFO Processing F16 , with training size 10943, and predict size 21953
+2018-01-13 00:47:51,742 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:48:19,846 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:48:47,151 nlpClassify.py[line:300] INFO Processing G08 , with training size 1001, and predict size 6674
+2018-01-13 00:48:47,154 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:48:55,946 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:49:04,334 nlpClassify.py[line:300] INFO Processing E05 , with training size 5355, and predict size 150
+2018-01-13 00:49:04,335 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:49:04,711 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:49:05,160 nlpClassify.py[line:300] INFO Processing G10 , with training size 1105, and predict size 1277
+2018-01-13 00:49:05,161 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:49:06,551 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:49:08,034 nlpClassify.py[line:300] INFO Processing B21 , with training size 4451, and predict size 8574
+2018-01-13 00:49:08,037 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:49:17,185 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:49:26,405 nlpClassify.py[line:300] INFO Processing F21 , with training size 5721, and predict size 9238
+2018-01-13 00:49:26,409 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:49:36,308 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:49:46,035 nlpClassify.py[line:300] INFO Processing G09 , with training size 1120, and predict size 13086
+2018-01-13 00:49:46,040 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:50:00,503 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:50:15,768 nlpClassify.py[line:300] INFO Processing G05 , with training size 1959, and predict size 10982
+2018-01-13 00:50:15,774 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:50:31,247 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:50:46,165 nlpClassify.py[line:300] INFO Processing B64 , with training size 3726, and predict size 770
+2018-01-13 00:50:46,166 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:50:47,155 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:50:48,242 nlpClassify.py[line:300] INFO Processing H05 , with training size 3430, and predict size 8528
+2018-01-13 00:50:48,246 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:50:57,335 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:51:06,646 nlpClassify.py[line:300] INFO Processing E02 , with training size 4636, and predict size 5532
+2018-01-13 00:51:06,649 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:51:12,768 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:51:18,962 nlpClassify.py[line:300] INFO Processing E21 , with training size 1699, and predict size 9312
+2018-01-13 00:51:18,966 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:51:30,566 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:51:41,852 nlpClassify.py[line:300] INFO Processing A24 , with training size 556, and predict size 1520
+2018-01-13 00:51:41,854 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:51:43,551 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:51:45,401 nlpClassify.py[line:300] INFO Processing B01 , with training size 1590, and predict size 36312
+2018-01-13 00:51:45,417 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:52:28,691 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:53:12,226 nlpClassify.py[line:300] INFO Processing C10 , with training size 1701, and predict size 2665
+2018-01-13 00:53:12,227 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:53:15,306 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:53:18,470 nlpClassify.py[line:300] INFO Processing A62 , with training size 1683, and predict size 1189
+2018-01-13 00:53:18,471 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:53:19,918 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:53:21,394 nlpClassify.py[line:300] INFO Processing F02 , with training size 4391, and predict size 623
+2018-01-13 00:53:21,395 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:53:22,248 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:53:23,183 nlpClassify.py[line:300] INFO Processing B22 , with training size 3288, and predict size 2507
+2018-01-13 00:53:23,185 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:53:26,063 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:53:29,032 nlpClassify.py[line:300] INFO Processing B60 , with training size 11053, and predict size 13465
+2018-01-13 00:53:29,038 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:53:46,968 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:54:03,881 nlpClassify.py[line:300] INFO Processing F24 , with training size 12724, and predict size 6708
+2018-01-13 00:54:03,884 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:54:10,896 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:54:17,774 nlpClassify.py[line:300] INFO Processing F22 , with training size 460, and predict size 772
+2018-01-13 00:54:17,776 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:54:18,742 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:54:19,883 nlpClassify.py[line:300] INFO Processing B09 , with training size 23, and predict size 1800
+2018-01-13 00:54:19,884 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:54:21,504 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:54:23,283 nlpClassify.py[line:300] INFO Processing B32 , with training size 996, and predict size 4156
+2018-01-13 00:54:23,285 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:54:29,478 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:54:35,475 nlpClassify.py[line:300] INFO Processing B24 , with training size 7556, and predict size 812
+2018-01-13 00:54:35,476 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:54:36,533 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:54:37,789 nlpClassify.py[line:300] INFO Processing F03 , with training size 1210, and predict size 1432
+2018-01-13 00:54:37,790 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:54:39,593 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:54:41,496 nlpClassify.py[line:300] INFO Processing E06 , with training size 115, and predict size 5422
+2018-01-13 00:54:41,499 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:54:47,389 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:54:53,081 nlpClassify.py[line:300] INFO Processing C06 , with training size 153, and predict size 1
+2018-01-13 00:54:53,082 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:54:53,246 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:54:53,543 nlpClassify.py[line:300] INFO Processing B41 , with training size 2207, and predict size 3042
+2018-01-13 00:54:53,547 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:54:56,731 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:55:00,004 nlpClassify.py[line:300] INFO Processing B62 , with training size 1372, and predict size 10191
+2018-01-13 00:55:00,011 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:55:12,838 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:55:25,105 nlpClassify.py[line:300] INFO Processing C01 , with training size 891, and predict size 4311
+2018-01-13 00:55:25,107 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:55:30,283 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:55:35,387 nlpClassify.py[line:300] INFO Processing D01 , with training size 629, and predict size 2362
+2018-01-13 00:55:35,389 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:55:38,346 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:55:41,440 nlpClassify.py[line:300] INFO Processing C11 , with training size 1076, and predict size 1591
+2018-01-13 00:55:41,441 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:55:42,932 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:55:44,538 nlpClassify.py[line:300] INFO Processing G07 , with training size 805, and predict size 6553
+2018-01-13 00:55:44,541 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:55:53,915 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:56:03,911 nlpClassify.py[line:300] INFO Processing C23 , with training size 610, and predict size 3496
+2018-01-13 00:56:03,913 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:56:07,604 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:56:11,361 nlpClassify.py[line:300] INFO Processing A22 , with training size 670, and predict size 104
+2018-01-13 00:56:11,362 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:56:11,676 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:56:12,153 nlpClassify.py[line:300] INFO Processing C22 , with training size 38, and predict size 5073
+2018-01-13 00:56:12,155 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:56:16,887 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:56:21,720 nlpClassify.py[line:300] INFO Processing D02 , with training size 242, and predict size 531
+2018-01-13 00:56:21,721 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:56:22,872 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:56:24,177 nlpClassify.py[line:300] INFO Processing B03 , with training size 216, and predict size 1855
+2018-01-13 00:56:24,179 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:56:27,076 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:56:30,027 nlpClassify.py[line:300] INFO Processing D04 , with training size 314, and predict size 1315
+2018-01-13 00:56:30,029 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:56:31,752 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:56:33,606 nlpClassify.py[line:300] INFO Processing E03 , with training size 348, and predict size 4463
+2018-01-13 00:56:33,608 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:56:38,252 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:56:42,887 nlpClassify.py[line:300] INFO Processing G04 , with training size 168, and predict size 750
+2018-01-13 00:56:42,888 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:56:43,748 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:56:44,701 nlpClassify.py[line:300] INFO Processing B02 , with training size 35, and predict size 6702
+2018-01-13 00:56:44,704 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:56:50,854 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:56:57,179 nlpClassify.py[line:300] INFO Processing C25 , with training size 112, and predict size 2277
+2018-01-13 00:56:57,181 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:56:59,531 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:57:01,999 nlpClassify.py[line:300] INFO Processing G11 , with training size 174, and predict size 1119
+2018-01-13 00:57:02,000 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:57:03,289 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:57:04,666 nlpClassify.py[line:300] INFO Processing D05 , with training size 285, and predict size 1396
+2018-01-13 00:57:04,667 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:57:06,319 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:57:08,083 nlpClassify.py[line:300] INFO Processing D03 , with training size 291, and predict size 992
+2018-01-13 00:57:08,084 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:57:09,676 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:57:11,456 nlpClassify.py[line:300] INFO Processing F27 , with training size 49, and predict size 2607
+2018-01-13 00:57:11,457 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:57:13,849 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:57:16,346 nlpClassify.py[line:300] INFO Processing G21 , with training size 76, and predict size 890
+2018-01-13 00:57:16,348 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:57:17,206 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:57:18,163 nlpClassify.py[line:300] INFO Processing A44 , with training size 147, and predict size 1231
+2018-01-13 00:57:18,164 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:57:19,467 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:57:20,865 nlpClassify.py[line:300] INFO Processing B08 , with training size 62, and predict size 7018
+2018-01-13 00:57:20,868 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:57:27,392 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:57:34,001 nlpClassify.py[line:300] INFO Processing A63 , with training size 127, and predict size 9747
+2018-01-13 00:57:34,005 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:57:43,726 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:57:53,565 nlpClassify.py[line:300] INFO Processing B05 , with training size 12, and predict size 6832
+2018-01-13 00:57:53,568 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:57:59,585 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:58:05,809 nlpClassify.py[line:300] INFO Processing F23 , with training size 38, and predict size 4749
+2018-01-13 00:58:05,811 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:58:10,217 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:58:14,716 nlpClassify.py[line:300] INFO Processing B28 , with training size 79, and predict size 5599
+2018-01-13 00:58:14,719 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:58:20,156 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:58:25,658 nlpClassify.py[line:300] INFO Processing A41 , with training size 106, and predict size 4338
+2018-01-13 00:58:25,660 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:58:30,231 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:58:34,915 nlpClassify.py[line:300] INFO Processing B27 , with training size 36, and predict size 3293
+2018-01-13 00:58:34,917 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:58:37,843 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:58:40,874 nlpClassify.py[line:300] INFO Processing F17 , with training size 30, and predict size 1760
+2018-01-13 00:58:40,876 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:58:42,428 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:58:44,075 nlpClassify.py[line:300] INFO Processing B44 , with training size 16, and predict size 1669
+2018-01-13 00:58:44,077 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:58:45,539 nlpClassify.py[line:237] INFO training the 1 classify
+2018-01-13 00:58:47,137 nlpClassify.py[line:300] INFO Processing B67 , with training size 12, and predict size 1663
+2018-01-13 00:58:47,138 nlpClassify.py[line:237] INFO training the 0 classify
+2018-01-13 00:58:48,678 nlpClassify.py[line:237] INFO training the 1 classify

@@ -1,0 +1,526 @@
+2018-06-13 13:34:12,624 nlpClassify.py[line:340] INFO loading 1 file, and url ['G:\\insiderModel\\OPTIONAL\\industry_learn\\doc\\mid\\check09260.xlsx', 'G:\\insiderModel\\OPTIONAL\\industry_learn\\doc\\mid\\check09261.xlsx', 'G:\\insiderModel\\OPTIONAL\\industry_learn\\doc\\mid\\check09262.xlsx']
+2018-06-13 13:34:13,035 nlpClassify.py[line:340] INFO loading 2 file, and url ['G:\\insiderModel\\OPTIONAL\\industry_learn\\doc\\mid\\check09260.xlsx', 'G:\\insiderModel\\OPTIONAL\\industry_learn\\doc\\mid\\check09261.xlsx', 'G:\\insiderModel\\OPTIONAL\\industry_learn\\doc\\mid\\check09262.xlsx']
+2018-06-13 13:34:13,423 nlpClassify.py[line:340] INFO loading 3 file, and url ['G:\\insiderModel\\OPTIONAL\\industry_learn\\doc\\mid\\check09260.xlsx', 'G:\\insiderModel\\OPTIONAL\\industry_learn\\doc\\mid\\check09261.xlsx', 'G:\\insiderModel\\OPTIONAL\\industry_learn\\doc\\mid\\check09262.xlsx']
+2018-06-13 13:34:13,456 nlpClassify.py[line:290] INFO train size: 400, predict size: 400, classify numbers: 2
+2018-06-13 13:34:13,471 nlpClassify.py[line:305] INFO Processing A23 , with training size 438, and predict size 227
+2018-06-13 13:34:13,473 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:15,661 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:15,877 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:16,034 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:16,036 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:16,763 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:16,978 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:17,132 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:17,135 nlpClassify.py[line:314] INFO success in A23, try 0
+2018-06-13 13:34:17,140 nlpClassify.py[line:305] INFO Processing A21 , with training size 26, and predict size 15
+2018-06-13 13:34:17,141 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:17,175 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:17,194 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:17,196 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:17,197 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:17,230 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:17,249 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:17,251 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:17,253 nlpClassify.py[line:314] INFO success in A21, try 0
+2018-06-13 13:34:17,257 nlpClassify.py[line:305] INFO Processing A01 , with training size 318, and predict size 270
+2018-06-13 13:34:17,259 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:17,750 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:18,026 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:18,135 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:18,136 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:18,621 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:18,898 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:19,007 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:19,010 nlpClassify.py[line:314] INFO success in A01, try 0
+2018-06-13 13:34:19,014 nlpClassify.py[line:305] INFO Processing A61 , with training size 487, and predict size 553
+2018-06-13 13:34:19,016 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:26,551 nlpClassify.py[line:311] ERROR error  in A61, try 0
+2018-06-13 13:34:26,562 nlpClassify.py[line:311] ERROR error  in A61, try 1
+2018-06-13 13:34:26,563 nlpClassify.py[line:311] ERROR error  in A61, try 2
+2018-06-13 13:34:26,564 nlpClassify.py[line:311] ERROR error  in A61, try 3
+2018-06-13 13:34:26,565 nlpClassify.py[line:311] ERROR error  in A61, try 4
+2018-06-13 13:34:26,565 nlpClassify.py[line:311] ERROR error  in A61, try 5
+2018-06-13 13:34:26,566 nlpClassify.py[line:311] ERROR error  in A61, try 6
+2018-06-13 13:34:26,566 nlpClassify.py[line:311] ERROR error  in A61, try 7
+2018-06-13 13:34:26,567 nlpClassify.py[line:311] ERROR error  in A61, try 8
+2018-06-13 13:34:26,567 nlpClassify.py[line:311] ERROR error  in A61, try 9
+2018-06-13 13:34:26,572 nlpClassify.py[line:305] INFO Processing G06 , with training size 336, and predict size 1147
+2018-06-13 13:34:26,575 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:27,429 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:27,781 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:28,392 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:28,751 nlpClassify.py[line:254] INFO testing the 1 classify strated
+2018-06-13 13:34:29,367 nlpClassify.py[line:257] INFO testing the 1 classify finished
+2018-06-13 13:34:30,205 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:31,056 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:31,409 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:32,023 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:32,385 nlpClassify.py[line:254] INFO testing the 1 classify strated
+2018-06-13 13:34:33,008 nlpClassify.py[line:257] INFO testing the 1 classify finished
+2018-06-13 13:34:33,856 nlpClassify.py[line:314] INFO success in G06, try 0
+2018-06-13 13:34:33,860 nlpClassify.py[line:305] INFO Processing F24 , with training size 156, and predict size 65
+2018-06-13 13:34:33,862 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:34,058 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:34,125 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:34,135 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:34,136 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:34,336 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:34,402 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:34,411 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:34,414 nlpClassify.py[line:314] INFO success in F24, try 0
+2018-06-13 13:34:34,418 nlpClassify.py[line:305] INFO Processing C09 , with training size 274, and predict size 50
+2018-06-13 13:34:34,420 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:34,975 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:35,028 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:35,048 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:35,049 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:35,603 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:35,657 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:35,677 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:35,684 nlpClassify.py[line:314] INFO success in C09, try 0
+2018-06-13 13:34:35,688 nlpClassify.py[line:305] INFO Processing H04 , with training size 1075, and predict size 9
+2018-06-13 13:34:35,689 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:42,324 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:42,337 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:42,410 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:42,412 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:43,222 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:43,235 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:43,242 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:43,245 nlpClassify.py[line:314] INFO success in H04, try 0
+2018-06-13 13:34:43,249 nlpClassify.py[line:305] INFO Processing C01 , with training size 14, and predict size 87
+2018-06-13 13:34:43,251 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:43,273 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:43,361 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:43,365 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:43,366 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:43,387 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:43,475 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:43,478 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:43,481 nlpClassify.py[line:314] INFO success in C01, try 0
+2018-06-13 13:34:43,485 nlpClassify.py[line:305] INFO Processing H01 , with training size 229, and predict size 493
+2018-06-13 13:34:43,487 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:43,963 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:44,347 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:44,746 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:44,917 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:45,391 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:45,778 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:46,180 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:46,352 nlpClassify.py[line:314] INFO success in H01, try 0
+2018-06-13 13:34:46,359 nlpClassify.py[line:305] INFO Processing C10 , with training size 30, and predict size 58
+2018-06-13 13:34:46,361 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:46,400 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:46,461 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:46,464 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:46,466 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:46,503 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:46,562 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:46,566 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:46,569 nlpClassify.py[line:314] INFO success in C10, try 0
+2018-06-13 13:34:46,572 nlpClassify.py[line:305] INFO Processing F02 , with training size 69, and predict size 17
+2018-06-13 13:34:46,574 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:46,658 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:46,677 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:46,680 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:46,681 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:46,764 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:46,783 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:46,785 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:46,788 nlpClassify.py[line:314] INFO success in F02, try 0
+2018-06-13 13:34:46,793 nlpClassify.py[line:305] INFO Processing C12 , with training size 111, and predict size 231
+2018-06-13 13:34:46,795 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:46,946 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:47,169 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:47,237 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:47,239 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:47,387 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:47,612 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:47,681 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:47,684 nlpClassify.py[line:314] INFO success in C12, try 0
+2018-06-13 13:34:47,688 nlpClassify.py[line:305] INFO Processing G02 , with training size 143, and predict size 8
+2018-06-13 13:34:47,690 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:47,892 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:47,903 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:47,906 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:47,907 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:48,113 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:48,124 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:48,127 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:48,129 nlpClassify.py[line:314] INFO success in G02, try 0
+2018-06-13 13:34:48,133 nlpClassify.py[line:305] INFO Processing B23 , with training size 263, and predict size 14
+2018-06-13 13:34:48,135 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:50,115 nlpClassify.py[line:311] ERROR error  in B23, try 0
+2018-06-13 13:34:50,123 nlpClassify.py[line:311] ERROR error  in B23, try 1
+2018-06-13 13:34:50,124 nlpClassify.py[line:311] ERROR error  in B23, try 2
+2018-06-13 13:34:50,124 nlpClassify.py[line:311] ERROR error  in B23, try 3
+2018-06-13 13:34:50,125 nlpClassify.py[line:311] ERROR error  in B23, try 4
+2018-06-13 13:34:50,125 nlpClassify.py[line:311] ERROR error  in B23, try 5
+2018-06-13 13:34:50,126 nlpClassify.py[line:311] ERROR error  in B23, try 6
+2018-06-13 13:34:50,126 nlpClassify.py[line:311] ERROR error  in B23, try 7
+2018-06-13 13:34:50,127 nlpClassify.py[line:311] ERROR error  in B23, try 8
+2018-06-13 13:34:50,127 nlpClassify.py[line:311] ERROR error  in B23, try 9
+2018-06-13 13:34:50,134 nlpClassify.py[line:305] INFO Processing B66 , with training size 76, and predict size 23
+2018-06-13 13:34:50,136 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:50,240 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:50,269 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:50,273 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:50,274 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:50,376 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:50,405 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:50,408 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:50,410 nlpClassify.py[line:314] INFO success in B66, try 0
+2018-06-13 13:34:50,414 nlpClassify.py[line:305] INFO Processing F16 , with training size 81, and predict size 166
+2018-06-13 13:34:50,415 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:50,539 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:50,709 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:50,753 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:50,754 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:50,876 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:51,044 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:51,090 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:51,093 nlpClassify.py[line:314] INFO success in F16, try 0
+2018-06-13 13:34:51,099 nlpClassify.py[line:305] INFO Processing G01 , with training size 279, and predict size 813
+2018-06-13 13:34:51,101 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:51,549 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:51,946 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:52,169 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:52,577 nlpClassify.py[line:254] INFO testing the 1 classify strated
+2018-06-13 13:34:52,806 nlpClassify.py[line:257] INFO testing the 1 classify finished
+2018-06-13 13:34:52,827 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:53,276 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:53,672 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:53,893 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:54,302 nlpClassify.py[line:254] INFO testing the 1 classify strated
+2018-06-13 13:34:54,523 nlpClassify.py[line:257] INFO testing the 1 classify finished
+2018-06-13 13:34:54,547 nlpClassify.py[line:314] INFO success in G01, try 0
+2018-06-13 13:34:54,551 nlpClassify.py[line:305] INFO Processing C08 , with training size 285, and predict size 175
+2018-06-13 13:34:54,553 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:55,165 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:55,333 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:55,494 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:55,496 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:56,105 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:56,274 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:56,435 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:56,439 nlpClassify.py[line:314] INFO success in C08, try 0
+2018-06-13 13:34:56,452 nlpClassify.py[line:305] INFO Processing G05 , with training size 35, and predict size 153
+2018-06-13 13:34:56,454 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:56,500 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:56,643 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:56,664 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:56,666 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:56,712 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:56,853 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:56,874 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:56,876 nlpClassify.py[line:314] INFO success in G05, try 0
+2018-06-13 13:34:56,883 nlpClassify.py[line:305] INFO Processing D06 , with training size 64, and predict size 32
+2018-06-13 13:34:56,884 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:56,967 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:57,003 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:57,008 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:57,009 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:57,094 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:57,132 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:57,138 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:57,141 nlpClassify.py[line:314] INFO success in D06, try 0
+2018-06-13 13:34:57,148 nlpClassify.py[line:305] INFO Processing C07 , with training size 45, and predict size 269
+2018-06-13 13:34:57,149 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:57,204 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:57,442 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:57,466 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:57,468 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:57,523 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:57,764 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:57,789 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:57,792 nlpClassify.py[line:314] INFO success in C07, try 0
+2018-06-13 13:34:57,799 nlpClassify.py[line:305] INFO Processing B24 , with training size 56, and predict size 15
+2018-06-13 13:34:57,800 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:57,873 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:57,889 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:57,892 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:57,893 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:57,965 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:57,981 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:57,984 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:57,986 nlpClassify.py[line:314] INFO success in B24, try 0
+2018-06-13 13:34:57,991 nlpClassify.py[line:305] INFO Processing B64 , with training size 39, and predict size 8
+2018-06-13 13:34:57,993 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:58,045 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:58,056 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:58,058 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:58,059 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:58,111 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:58,121 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:58,124 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:58,126 nlpClassify.py[line:314] INFO success in B64, try 0
+2018-06-13 13:34:58,130 nlpClassify.py[line:305] INFO Processing F21 , with training size 58, and predict size 62
+2018-06-13 13:34:58,132 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:58,213 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:58,276 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:58,280 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:58,282 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:58,355 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:58,416 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:58,421 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:58,423 nlpClassify.py[line:314] INFO success in F21, try 0
+2018-06-13 13:34:58,430 nlpClassify.py[line:305] INFO Processing B01 , with training size 26, and predict size 354
+2018-06-13 13:34:58,432 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:58,470 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:58,832 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:58,860 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:58,862 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:34:58,901 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:34:59,264 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:34:59,293 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:34:59,296 nlpClassify.py[line:314] INFO success in B01, try 0
+2018-06-13 13:34:59,303 nlpClassify.py[line:305] INFO Processing H02 , with training size 171, and predict size 340
+2018-06-13 13:34:59,305 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:34:59,577 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:34:59,904 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:00,072 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:00,074 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:00,347 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:00,675 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:00,843 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:00,847 nlpClassify.py[line:314] INFO success in H02, try 0
+2018-06-13 13:35:00,851 nlpClassify.py[line:305] INFO Processing B60 , with training size 132, and predict size 140
+2018-06-13 13:35:00,853 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:01,048 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:01,192 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:01,252 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:01,254 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:01,451 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:01,595 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:01,651 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:01,654 nlpClassify.py[line:314] INFO success in B60, try 0
+2018-06-13 13:35:01,658 nlpClassify.py[line:305] INFO Processing F04 , with training size 58, and predict size 16
+2018-06-13 13:35:01,660 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:01,734 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:01,753 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:01,755 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:01,757 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:01,830 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:01,849 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:01,852 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:01,854 nlpClassify.py[line:314] INFO success in F04, try 0
+2018-06-13 13:35:01,859 nlpClassify.py[line:305] INFO Processing E05 , with training size 45, and predict size 3
+2018-06-13 13:35:01,860 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:01,924 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:01,929 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:01,931 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:01,932 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:01,996 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:02,001 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:02,002 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:02,004 nlpClassify.py[line:314] INFO success in E05, try 0
+2018-06-13 13:35:02,008 nlpClassify.py[line:305] INFO Processing F03 , with training size 14, and predict size 17
+2018-06-13 13:35:02,010 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:02,031 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:02,050 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:02,052 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:02,054 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:02,075 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:02,095 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:02,096 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:02,098 nlpClassify.py[line:314] INFO success in F03, try 0
+2018-06-13 13:35:02,103 nlpClassify.py[line:305] INFO Processing B25 , with training size 74, and predict size 46
+2018-06-13 13:35:02,105 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:02,199 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:02,248 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:02,252 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:02,253 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:02,343 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:02,391 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:02,396 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:02,398 nlpClassify.py[line:314] INFO success in B25, try 0
+2018-06-13 13:35:02,402 nlpClassify.py[line:305] INFO Processing C04 , with training size 63, and predict size 105
+2018-06-13 13:35:02,404 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:02,483 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:02,590 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:02,603 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:02,604 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:02,682 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:02,788 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:02,801 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:02,804 nlpClassify.py[line:314] INFO success in C04, try 0
+2018-06-13 13:35:02,812 nlpClassify.py[line:305] INFO Processing E02 , with training size 38, and predict size 50
+2018-06-13 13:35:02,815 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:02,878 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:02,933 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:02,937 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:02,938 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:02,990 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:03,046 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:03,050 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:03,052 nlpClassify.py[line:314] INFO success in E02, try 0
+2018-06-13 13:35:03,057 nlpClassify.py[line:305] INFO Processing H05 , with training size 42, and predict size 85
+2018-06-13 13:35:03,058 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:03,115 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:03,210 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:03,215 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:03,217 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:03,271 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:03,360 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:03,365 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:03,367 nlpClassify.py[line:314] INFO success in H05, try 0
+2018-06-13 13:35:03,372 nlpClassify.py[line:305] INFO Processing B29 , with training size 69, and predict size 59
+2018-06-13 13:35:03,374 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:03,470 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:03,534 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:03,542 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:03,544 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:03,641 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:03,704 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:03,713 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:03,715 nlpClassify.py[line:314] INFO success in B29, try 0
+2018-06-13 13:35:03,723 nlpClassify.py[line:305] INFO Processing C11 , with training size 15, and predict size 38
+2018-06-13 13:35:03,724 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:03,747 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:03,782 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:03,784 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:03,785 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:03,808 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:03,844 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:03,846 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:03,849 nlpClassify.py[line:314] INFO success in C11, try 0
+2018-06-13 13:35:03,854 nlpClassify.py[line:305] INFO Processing E01 , with training size 57, and predict size 32
+2018-06-13 13:35:03,856 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:03,934 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:03,970 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:03,974 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:03,976 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:04,052 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:04,089 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:04,093 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:04,095 nlpClassify.py[line:314] INFO success in E01, try 0
+2018-06-13 13:35:04,105 nlpClassify.py[line:305] INFO Processing C02 , with training size 45, and predict size 181
+2018-06-13 13:35:04,107 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:04,168 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:04,351 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:04,365 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:04,367 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:04,428 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:04,608 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:04,621 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:04,624 nlpClassify.py[line:314] INFO success in C02, try 0
+2018-06-13 13:35:04,629 nlpClassify.py[line:305] INFO Processing E21 , with training size 16, and predict size 103
+2018-06-13 13:35:04,630 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:04,657 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:04,767 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:04,771 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:04,773 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:04,799 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:04,913 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:04,917 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:04,919 nlpClassify.py[line:314] INFO success in E21, try 0
+2018-06-13 13:35:04,926 nlpClassify.py[line:305] INFO Processing G08 , with training size 15, and predict size 95
+2018-06-13 13:35:04,928 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:04,952 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:05,043 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:05,047 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:05,049 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:05,073 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:05,165 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:05,171 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:05,174 nlpClassify.py[line:314] INFO success in G08, try 0
+2018-06-13 13:35:05,178 nlpClassify.py[line:305] INFO Processing B21 , with training size 30, and predict size 89
+2018-06-13 13:35:05,180 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:05,220 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:05,319 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:05,324 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:05,326 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:05,367 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:05,466 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:05,471 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:05,473 nlpClassify.py[line:314] INFO success in B21, try 0
+2018-06-13 13:35:05,478 nlpClassify.py[line:305] INFO Processing B41 , with training size 23, and predict size 17
+2018-06-13 13:35:05,480 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:05,513 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:05,534 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:05,536 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:05,537 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:05,569 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:05,591 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:05,593 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:05,595 nlpClassify.py[line:314] INFO success in B41, try 0
+2018-06-13 13:35:05,599 nlpClassify.py[line:305] INFO Processing B32 , with training size 19, and predict size 49
+2018-06-13 13:35:05,600 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:05,627 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:05,676 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:05,682 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:05,683 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:05,709 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:05,761 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:05,764 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:05,766 nlpClassify.py[line:314] INFO success in B32, try 0
+2018-06-13 13:35:05,770 nlpClassify.py[line:305] INFO Processing B22 , with training size 28, and predict size 36
+2018-06-13 13:35:05,773 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:05,815 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:05,854 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:05,857 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:05,858 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:05,901 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:05,940 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:05,943 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:05,945 nlpClassify.py[line:314] INFO success in B22, try 0
+2018-06-13 13:35:05,949 nlpClassify.py[line:305] INFO Processing G09 , with training size 14, and predict size 101
+2018-06-13 13:35:05,950 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:05,973 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:06,073 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:06,078 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:06,079 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:06,102 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:06,204 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:06,208 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:06,211 nlpClassify.py[line:314] INFO success in G09, try 0
+2018-06-13 13:35:06,215 nlpClassify.py[line:305] INFO Processing F01 , with training size 30, and predict size 19
+2018-06-13 13:35:06,217 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:06,255 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:06,280 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:06,282 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:06,283 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:06,323 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:06,347 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:06,349 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:06,352 nlpClassify.py[line:314] INFO success in F01, try 0
+2018-06-13 13:35:06,359 nlpClassify.py[line:305] INFO Processing B65 , with training size 58, and predict size 296
+2018-06-13 13:35:06,361 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:06,437 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:06,758 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:06,833 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:06,835 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:06,914 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:07,235 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:07,298 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:07,302 nlpClassify.py[line:314] INFO success in B65, try 0
+2018-06-13 13:35:07,309 nlpClassify.py[line:305] INFO Processing B62 , with training size 17, and predict size 87
+2018-06-13 13:35:07,311 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:07,336 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:07,425 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:07,429 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:07,431 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:07,458 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:07,549 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:07,553 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:07,556 nlpClassify.py[line:314] INFO success in B62, try 0
+2018-06-13 13:35:07,562 nlpClassify.py[line:305] INFO Processing G10 , with training size 27, and predict size 11
+2018-06-13 13:35:07,564 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:07,596 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:07,610 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:07,612 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:07,613 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:07,645 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:07,660 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:07,661 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:07,663 nlpClassify.py[line:314] INFO success in G10, try 0
+2018-06-13 13:35:07,690 nlpClassify.py[line:305] INFO Processing A24 , with training size 13, and predict size 12
+2018-06-13 13:35:07,692 nlpClassify.py[line:239] INFO training the 0 classify
+2018-06-13 13:35:07,713 nlpClassify.py[line:247] INFO training the 0 classify finished
+2018-06-13 13:35:07,725 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:07,726 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:07,728 nlpClassify.py[line:239] INFO training the 1 classify
+2018-06-13 13:35:07,749 nlpClassify.py[line:247] INFO training the 1 classify finished
+2018-06-13 13:35:07,762 nlpClassify.py[line:254] INFO testing the 0 classify strated
+2018-06-13 13:35:07,763 nlpClassify.py[line:257] INFO testing the 0 classify finished
+2018-06-13 13:35:07,766 nlpClassify.py[line:314] INFO success in A24, try 0
