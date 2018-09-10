@@ -1,0 +1,11 @@
+2018-02-11 19:32:07,400 getDataDB.py[line:191] INFO sql: select  * from fulldata2017 where ID> 0 and ID<= 1000  
+2018-02-11 19:51:01,954 getDataDB.py[line:191] INFO sql: select  * from fulldata2017 where ID> 0 and ID<= 1000  
+2018-02-11 19:51:48,749 getDataDB.py[line:191] INFO sql: select  * from fulldata2017 where ID> 1000 and ID<= 2000  
+2018-02-11 19:52:35,390 getDataDB.py[line:191] INFO sql: select  * from fulldata2017 where ID> 2000 and ID<= 3000  
+2018-02-11 19:53:21,509 getDataDB.py[line:191] INFO sql: select  * from fulldata2017 where ID> 3000 and ID<= 4000  
+2018-02-11 19:54:08,079 getDataDB.py[line:191] INFO sql: select  * from fulldata2017 where ID> 4000 and ID<= 5000  
+2018-02-11 19:54:54,655 getDataDB.py[line:191] INFO sql: select  * from fulldata2017 where ID> 5000 and ID<= 6000  
+2018-02-11 19:55:41,337 getDataDB.py[line:191] INFO sql: select  * from fulldata2017 where ID> 6000 and ID<= 7000  
+2018-02-11 19:56:27,404 getDataDB.py[line:191] INFO sql: select  * from fulldata2017 where ID> 7000 and ID<= 8000  
+2018-02-11 19:57:14,014 getDataDB.py[line:191] INFO sql: select  * from fulldata2017 where ID> 8000 and ID<= 9000  
+2018-02-11 19:58:00,350 getDataDB.py[line:191] INFO sql: select  * from fulldata2017 where ID> 9000 and ID<= 10000  
