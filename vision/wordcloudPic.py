@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Sep 12 09:41:55 2018
-
+词云
 @author: liuxh
 """
 
@@ -37,10 +36,6 @@ for word in words:
     words1.append(word)
 words2 = " ".join(words1)
 
-dicts = defaultdict(int)
-
-for word in words:
-    dicts[word] += 1
 
 wc.generate(words2)
 # 基于彩色图像生成相应彩色
@@ -55,9 +50,6 @@ plt.imshow(wc.recolor(color_func=image_colors))
 plt.axis('off')
 # 保存图片
 wc.to_file('19th.png')
-
-
-
 
 
 
