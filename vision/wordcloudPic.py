@@ -10,11 +10,11 @@ import matplotlib.pyplot as plt
 import jieba
 from scipy.misc import imread
 from collections import defaultdict
-from wordcloudPic import WordCloud
-from wordcloudPic import STOPWORDS
-from wordcloudPic import ImageColorGenerator
+from wordcloud import WordCloud
+from wordcloud import STOPWORDS
+from wordcloud import ImageColorGenerator
 
-back_color = imread("Bill5.jpg")  # 解析该图片
+back_color = imread("Bill3.jpg")  # 解析该图片
 wc = WordCloud(background_color='white',
                max_words=1000,
                mask=back_color,
