@@ -26,6 +26,14 @@ def ysfh(n,k,m):
 a = ysfh(10,2,7)
 
 
+def ysfh2(n,k,m):
+    a = [x + 1 for x in range(n)]
+    index, step = k-1, m
+    while len(a) > 1:
+        index = (index + step - 1) % len(a)
+        print('kill No.', a[index])
+        del a[index]
+    print('Winner is', a[0])
 
 
 
@@ -72,6 +80,10 @@ def josephus(n, k):
         if tmp.next == tmp:
             break
     print('survive:', tmp.value)
+
+
+
+
 
 
 if __name__ == '__main__':
