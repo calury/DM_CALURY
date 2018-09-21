@@ -47,3 +47,23 @@ plot_feature_importances(
     'AdaBoost regressor',
     housing_data.feature_names)
 
+
+
+#探索变量相关性
+fig, ax = plt.subplots(figsize=(15,15))
+sns.heatmap(dataframe[dataframe["Type"] == "h"].corr(), annot=True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
