@@ -53,9 +53,13 @@ plot_feature_importances(
 fig, ax = plt.subplots(figsize=(15,15))
 sns.heatmap(dataframe[dataframe["Type"] == "h"].corr(), annot=True)
 
-
-
-
+# tight_layout( )
+for col in col_list:
+        i += 1
+        plt.subplot(6,2,i)
+        plt.plot(housing_df[col], housing_df['MEDV'], marker='.', linestyle='none')
+        plt.title(title % (col))
+        plt.tight_layout()
 
 
 
