@@ -53,6 +53,20 @@ plot_feature_importances(
 fig, ax = plt.subplots(figsize=(15,15))
 sns.heatmap(dataframe[dataframe["Type"] == "h"].corr(), annot=True)
 
+
+
+corr_matrix = np.corrcoef(housing_df[housing_colnames].values.T)
+# to control figure size
+fig, ax = plt.subplots()
+fig.set_size_inches(11.7, 8.27)
+sns.set(font_scale=1.5)
+# plot heatmap of correlations
+hm = sns.heatmap(corr_matrix, cbar=True, annot=True, square=True, fmt='.2f', annot_kws={'size': 10}, yticklabels=housing_colnames,
+                 xticklabels=housing_colnames)
+plt.show()
+
+
+
 # tight_layout( )
 for col in col_list:
         i += 1
@@ -60,6 +74,17 @@ for col in col_list:
         plt.plot(housing_df[col], housing_df['MEDV'], marker='.', linestyle='none')
         plt.title(title % (col))
         plt.tight_layout()
+
+
+
+#变量分析图
+fig,ax = plt.subplots(2,2,figsize=(14,8))
+ax1,ax2,ax3,ax4 = ax.flatten()
+sns.distplot(train['ps_car_13'],bins=120,ax=ax1)
+sns.boxplot(x='ps_car_13',y='target',data=train,ax=ax2)
+sns.violinplot(x='ps_car_13',y='target',data=train,ax=ax3)
+sns.pointplot(x='ps_car_13',y='target',data=train,ax=ax4)
+
 
 
 
