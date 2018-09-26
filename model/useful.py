@@ -88,7 +88,33 @@ sns.pointplot(x='ps_car_13',y='target',data=train,ax=ax4)
 
 
 
+#离群点判断
+def outlier(df, columns):
+    for i in columns:
+        quartile_1, quartile_3 = np.percentile(df[i], [25, 75])
+        quartile_f, quartile_l = np.percentile(df[i], [1, 99])
+        IQR = quartile_3 - quartile_1
+        lower_bound = quartile_1 - (1.5 * IQR)
+        upper_bound = quartile_3 + (1.5 * IQR)
+        print(i, lower_bound, upper_bound, quartile_f, quartile_l)
 
+        df[i].loc[df[i] < lower_bound] = quartile_f
+        df[i].loc[df[i] > upper_bound] = quartile_l
+
+
+#ROC绘图
+
+proba = lr.predict_proba(xvl)[:,1]
+fpr,tpr, threshold = roc_curve(yvl,proba)
+auc_val = auc(fpr,tpr)
+
+plt.figure(figsize=(14,8))
+plt.title('Reciever Operating Charactaristics')
+plt.plot(fpr,tpr,'b',label = 'AUC = %0.2f' % auc_val)
+plt.legend(loc='lower right')
+plt.plot([0,1],[0,1],'r--')
+plt.ylabel('True positive rate')
+plt.xlabel('False positive rate')
 
 
 
