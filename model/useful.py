@@ -139,3 +139,32 @@ def outlier(df, columns):
 
         df[i].loc[df[i] < lower_bound] = quartile_f
         df[i].loc[df[i] > upper_bound] = quartile_l
+
+# OHE变量分析
+#由于不能保证在训练集中的变量取值一定会在测试集中出现，所以一般来讲，需要将训练和测试两个集合
+#都包含其中来决定变量的OHE值，
+def OHE(df1, df2, column):
+    cat_col = column
+    # cat_col = df.select_dtypes(include =['category']).columns
+    len_df1 = df1.shape[0]
+
+    df = pd.concat([df1, df2], ignore_index=True)
+    c2, c3 = [], {}
+
+    print('Categorical feature', len(column))
+    for c in cat_col:
+        if df[c].nunique() > 2:
+            c2.append(c)
+            c3[c] = 'ohe_' + c
+
+    df = pd.get_dummies(df, prefix=c3, columns=c2, drop_first=True)
+
+    df1 = df.loc[:len_df1 - 1]
+    df2 = df.loc[len_df1:]
+    print('Train', df1.shape)
+    print('Test', df2.shape)
+    return df1, df2
+
+train1,test1 = OHE(train,test,tot_cat_col)
+
+
