@@ -127,4 +127,15 @@ def basic_details(df):
 #basic_details(train)
 
 
+#离群点函数
+def outlier(df, columns):
+    for i in columns:
+        quartile_1, quartile_3 = np.percentile(df[i], [25, 75])
+        quartile_f, quartile_l = np.percentile(df[i], [1, 99])
+        IQR = quartile_3 - quartile_1
+        lower_bound = quartile_1 - (1.5 * IQR)
+        upper_bound = quartile_3 + (1.5 * IQR)
+        print(i, lower_bound, upper_bound, quartile_f, quartile_l)
 
+        df[i].loc[df[i] < lower_bound] = quartile_f
+        df[i].loc[df[i] > upper_bound] = quartile_l
