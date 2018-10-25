@@ -117,8 +117,14 @@ plt.ylabel('True positive rate')
 plt.xlabel('False positive rate')
 
 
-
-
+# 显示数据集中缺失值与唯一值数量
+def basic_details(df):
+    b = pd.DataFrame()
+    b['Missing value'] = df.isnull().sum()
+    b['N unique value'] = df.nunique()
+    b['dtype'] = df.dtypes
+    return b
+#basic_details(train)
 
 
 
