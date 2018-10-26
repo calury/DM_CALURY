@@ -7,6 +7,7 @@
 
 import matplotlib.pyplot as plt
 import seaborn as sns
+import pandas as pd
 
 
 plt.rcParams['font.sas-serig']=['SimHei']    #用来正常显示中文标签
