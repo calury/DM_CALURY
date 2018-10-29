@@ -105,3 +105,11 @@ def rmse(y, y0):
     return np.sqrt(np.mean(np.power((y - y0), 2)))
 
 
+
+# Encoder:
+lbl = preprocessing.LabelEncoder()
+for col in categorical:
+    df[col].fillna('Unknown')
+    df[col] = lbl.fit_transform(df[col].astype(str))
+
+
