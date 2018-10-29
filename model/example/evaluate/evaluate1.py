@@ -100,6 +100,8 @@ for sc in range(len(scoring)):
 
 
 
-
+def rmse(y, y0):
+    assert len(y) == len(y0)
+    return np.sqrt(np.mean(np.power((y - y0), 2)))
 
 
