@@ -14,6 +14,10 @@ plt.rcParams['font.sas-serig']=['SimHei']    #用来正常显示中文标签
 plt.rcParams['axes.unicode_minus']=False     #用来正常显示负号
 
 
+# 设定一个随机seed，一般以年份为seed比较好
+random.seed(2018)
+
+
 # 定义plot_feature_importances函数来画出条形图
 def plot_feature_importances(feature_importances, title, feature_names):
     # 将重要性值标准化
@@ -167,5 +171,24 @@ def OHE(df1, df2, column):
     return df1, df2
 
 train1,test1 = OHE(train,test,tot_cat_col)
+
+
+# 可以通过这种形式将训练与测试分割开来
+train['is_train'] = 1
+test['is_train'] = 0
+
+merge = pd.concat([train, test])
+
+
+
+# 由于PRICE是最后的目标预测变量，只能加上一个很小的数，而不能使用np.log1p()函数，
+# 这样对目标变量有较大影响，而0.001对数后
+merge["price"] = np.log(merge["price"]+0.001)
+
+
+# 关于 时间数据，可以考虑日期是周几，一个月的第几天等信息
+
+
+
 
 
