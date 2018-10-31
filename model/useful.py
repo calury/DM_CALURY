@@ -189,6 +189,17 @@ merge["price"] = np.log(merge["price"]+0.001)
 # 关于 时间数据，可以考虑日期是周几，一个月的第几天等信息
 
 
+from sklearn.preprocessing import LabelEncoder
+le = LabelEncoder()
+
+def factorize(df, factor_df, column, fill_na=None):
+    factor_df[column] = df[column]
+    if fill_na is not None:
+        factor_df[column].fillna(fill_na, inplace=True)
+    le.fit(factor_df[column].unique())
+    factor_df[column] = le.transform(factor_df[column])
+    return factor_df
 
 
-
+#日期的处理方法
+all_df["Age"] = 2010 - all_df["YearBuilt"]
