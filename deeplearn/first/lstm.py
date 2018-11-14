@@ -29,7 +29,6 @@ weights = tf.Variable(tf.truncated_normal([lstm_size, n_classes], stddev=0.1))
 # 初始化偏置值
 biases = tf.Variable(tf.constant(0.1, shape=[n_classes]))
 
-
 # 定义RNN网络
 def RNN(X, weights, biases):
     inputs = tf.reshape(X, [-1, max_time, n_inputs])
